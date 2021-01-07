@@ -6,6 +6,8 @@ Barebones version of [this repository](https://github.com/akirasosa/mobile-seman
 ## Dataset
 Labeled faces in the wild. Get it from [here](https://www.dropbox.com/s/kkj73eklp5fnut0/data.zip?dl=0).
 
+## Setup
+install python, anaconda, opencv
 
 ## Training
 ```
